@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# compiled programs
+*.out
+*.o
+
+# datasets and model weights (too big for git)
+data/
+*.pt
+*.pth
